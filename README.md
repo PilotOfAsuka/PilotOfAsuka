@@ -33,7 +33,7 @@
 
 #### 🤖 Совместные эксперименты
 > Telegram-бот, который добавляет на фото ИИ-девушку.  
-> Разрабатывался совместно с [RuslanNnNn1337](https://github.com/RuslanNnNn1337).  
+> Разрабатывался совместно с [RuslanNnNn1337](https://github.com/RuslanMakhanov).  
 >
 > 🔹 **DreamTogetherBot:** [github.com/PilotOfAsuka/DreamTogetherBot](https://github.com/PilotOfAsuka/DreamTogetherBot)
 
