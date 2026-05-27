@@ -25,7 +25,6 @@
 > Поле поделено на клетки, каждая — экземпляр класса.  
 > На этой основе пишу эволюционный симулятор с генетическим алгоритмом.  
 >
-> 🔹 **CellEngine:** [github.com/PilotOfAsuka/CellEngine](https://github.com/PilotOfAsuka/CellEngine)  
 > 🔹 **CellLabPython:** [github.com/PilotOfAsuka/CellLabPython](https://github.com/PilotOfAsuka/CellLabPython)  
 >
 > 💬 Сначала был алгоритм — потом пришло понимание, что визуализация должна быть другой.  
